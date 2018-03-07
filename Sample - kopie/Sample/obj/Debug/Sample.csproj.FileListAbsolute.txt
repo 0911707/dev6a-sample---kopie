@@ -1,0 +1,31 @@
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Tester.dll
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Tester.xml
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Tester.dll
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Tester.xml
+C:\Users\Julian\Desktop\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Julian\Desktop\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Julian\Desktop\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\Julian\Desktop\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Julian\Desktop\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Julian\Desktop\Sample\Sample\bin\Debug\Tester.dll
+C:\Users\Julian\Desktop\Sample\Sample\bin\Debug\Tester.xml
+C:\Users\Julian\Desktop\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\Sample - kopie\Sample\bin\Debug\Sample.exe.config
+C:\Users\Julian\Desktop\Sample - kopie\Sample\obj\Debug\Sample.exe
+C:\Users\Julian\Desktop\Sample - kopie\Sample\obj\Debug\Sample.pdb
+C:\Users\Julian\Desktop\Sample - kopie\Sample\bin\Debug\Sample.exe
+C:\Users\Julian\Desktop\Sample - kopie\Sample\bin\Debug\Sample.pdb
+C:\Users\Julian\Desktop\Sample - kopie\Sample\bin\Debug\Tester.dll
+C:\Users\Julian\Desktop\Sample - kopie\Sample\bin\Debug\Tester.xml
+C:\Users\Julian\Desktop\Sample - kopie\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
